@@ -1,0 +1,13 @@
+.super-navbar__content {
+  padding: 0;
+  padding: 50px;
+  box-sizing: content-box;
+}
+
+.super-navbar__logo {
+  padding: 0;
+}
+
+.super-footer.corners {
+  padding: 80px 50px;
+}
