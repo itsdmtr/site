@@ -1,0 +1,234 @@
+/* Content reset below */
+
+.notion-link,
+.notion-page,
+.notion-page__icon,
+.notion-page__title,
+.notion-bulleted-list,
+.notion-numbered-list,
+.notion-list-item,
+.notion-to-do,
+.notion-to-do__content,
+.notion-to-do__icon,
+.notion-checkbox,
+.notion-checkbox.checked,
+.notion-to-do__title,
+.notion-to-do__title.checked,
+.notion-checkbox>svg,
+.notion-checkbox.checked>svg,
+.notion-toggle,
+.notion-toggle__summary,
+.notion-toggle__summary::before,
+.notion-toggle__content,
+.notion-quote,
+.notion-callout,
+.notion-callout__icon,
+.notion-callout__content,
+.notion-callout.border,
+.notion-code>pre,
+.notion-code code,
+.notion-divider,
+.notion-table-of-contents,
+.notion-table-of-contents__item,
+.notion-equation,
+.notion-equation.notion-equation__inline,
+.notion-equation.notion-equation__block {
+  all: initial;
+}
+
+/* Database reset below */
+
+.notion-collection,
+.notion-collection__header,
+.notion-collection__header-icon,
+.notion-pill,
+.notion-property__title,
+.notion-property__date,
+.notion-property__url,
+.notion-property__relation,
+.notion-property__title__icon-wrapper,
+.notion-collection-table__wrapper,
+.notion-collection-table,
+.notion-collection-table__head,
+.notion-collection-table__body,
+.notion-collection-table__cell,
+.notion-collection-gallery,
+.notion-collection-gallery.small,
+.notion-collection-gallery.medium,
+.notion-collection-gallery.large,
+.notion-collection-card.gallery,
+.notion-collection-card__content,
+.notion-collection-card__cover,
+.notion-collection-card__property,
+.notion-collection-board,
+.notion-collection-board__column,
+.notion-collection-board__column-header,
+.notion-collection-board__item,
+.notion-collection-card.board,
+.notion-collection-list,
+.notion-collection-list__item,
+.notion-collection-list__item-title,
+.notion-collection-list__item-content,
+.notion-collection-list__item-property {
+  all: initial;
+}
+
+/* Layout reset below */
+
+.notion-body,
+.notion-sidebar,
+.notion-sidebar__header,
+.notion-sidebar__icon,
+.notion-sidebar__wrapper,
+.notion-sidebar__search,
+.notion-sidebar__search>input,
+.notion-sidebar__content,
+.notion-sidebar__toggle,
+.notion-sidebar__section,
+.notion-sidebar__section-icon,
+.notion-sidebar__section-items,
+.notion-sidebar__item,
+.notion-sidebar__item-icon,
+.notion-sidebar__item-title,
+.notion-sidebar__item-toggle,
+.notion-footer,
+.notion-footer__content,
+.notion-topbar,
+.notion-topbar__content,
+.notion-topbar__logo,
+.notion-topbar__logo>img,
+.notion-topbar__right,
+.notion-topbar__icon,
+.notion-announcements,
+.notion-announcements__icon,
+.notion-announcements__content {
+  all: initial;
+}
+
+/* Typography reset below */
+
+.notion-heading,
+.notion-heading__title,
+.notion-subheading,
+.notion-subheading__title,
+.notion-text,
+.notion-text__content,
+.notion-link,
+.notion-link__content,
+.notion-link__icon,
+.notion-markdown,
+.notion-markdown__content,
+.notion-code,
+.notion-code__content,
+.notion-formula,
+.notion-formula__content,
+.notion-highlight,
+.notion-highlight__content,
+.notion-highlight__icon,
+.notion-blockquote,
+.notion-blockquote__content,
+.notion-blockquote__icon,
+.notion-callout,
+.notion-callout__content,
+.notion-callout__icon,
+.notion-todo,
+.notion-todo__content,
+.notion-todo__icon,
+.notion-checkbox,
+.notion-checkbox__icon,
+.notion-checkbox__content {
+  all: initial;
+}
+
+/* Media reset below */
+
+.notion-caption,
+.notion-image,
+.notion-image img,
+.notion-bookmark,
+.notion-bookmark__content,
+.notion-bookmark__title,
+.notion-bookmark__description,
+.notion-bookmark__link,
+.notion-bookmark__cover,
+.notion-bookmark__cover img,
+.notion-video,
+.notion-audio,
+.notion-file,
+.notion-file__icon,
+.notion-file__title,
+.notion-file__size,
+.notion-embed,
+.notion-embed__content,
+.notion-embed__loader,
+.notion-embed__container,
+.notion-tweet,
+.static-tweet-header,
+.static-tweet-header-avatar,
+.static-tweet-header-author,
+.static-tweet-header-name,
+.static-tweet-header-username,
+.static-tweet-header-brand,
+.static-tweet-p,
+.image-container,
+.static-tweet-info {
+  all: initial;
+}
+
+/* Navbar reset below */
+
+.super-navbar,
+.super-navbar__wrapper,
+.super-navbar__logo,
+.super-navbar__nav,
+.super-navbar__nav-item,
+.super-navbar__nav-link,
+.super-navbar__button,
+.super-navbar__dropdown,
+.super-navbar__dropdown-link {
+  all: initial;
+}
+
+/* Footer reset below */
+
+.super-footer,
+.super-footer.corners,
+.super-footer.stack,
+.super-footer.floating,
+.super-footer__logo,
+.super-footer__logo-image,
+.super-footer__links,
+.super-footer__link,
+.super-footer__footnote,
+.super-footer__icons {
+  all: initial;
+}
+
+/* Search reset below */
+
+.notion-search__wrapper,
+.notion-search__box,
+.notion-search__input,
+.notion-search__input>input,
+.notion-search__icon,
+.notion-icon.notion-icon__search,
+.notion-search__clear,
+.notion-search__clear>svg,
+.notion-search__result-item,
+.notion-search__result-loader,
+.notion-search__result-footer {
+  all: initial;
+}
+
+/* Super Password reset below */
+
+.super-password-protection,
+.super-password-protection__wrapper,
+.super-password-protection__title,
+.super-password-protection__input,
+.super-password-protection__input>input,
+.super-password-protection__input-lock,
+.super-password-protection__input-arrow,
+.super-password-protection__error {
+  all: initial;
+}
