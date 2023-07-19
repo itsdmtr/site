@@ -1,3 +1,7 @@
+* {
+  all: unset;
+}
+
 /* Content reset below */
 
 .notion-link,
