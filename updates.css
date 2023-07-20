@@ -1,0 +1,26 @@
+.super-navbar__content {
+  padding: 0;
+  padding: 50px;
+  box-sizing: content-box;
+}
+
+.super-navbar__logo {
+  padding: 0;
+}
+
+.super-footer.corners {
+  padding: 80px 50px;
+}
+
+.notion-link.link,
+.notion-navbar>a,
+.super-navbar__item,
+.super-footer__logo,
+.super-footer__link {
+    color: #4C95F7 !important;
+}
+
+.super-navbar__item.active {
+    color: #4C95F7 !important;
+    opacity: 1;
+}
