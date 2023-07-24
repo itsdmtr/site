@@ -25,6 +25,6 @@
     opacity: 1;
 }
 
-strong {
+.notion-semantic-string strong {
     font-weight: 300 !important;
 }
