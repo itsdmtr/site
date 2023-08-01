@@ -28,3 +28,6 @@
 strong {
     font-weight: 300 !important;
 }
+.notion-page__title {
+  display: none !important;
+}
