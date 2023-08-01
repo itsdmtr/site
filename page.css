@@ -3,6 +3,7 @@
 }
 
 .notion-page {
+    display: none !important;
     transition: var(--transition) !important;
     letter-spacing: -1px !important;
     position: relative !important;
