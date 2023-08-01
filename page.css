@@ -2,8 +2,11 @@
     display: none !important;
 }
 
-.notion-page {
+.notion-page__title {
     display: none !important;
+}
+
+.notion-page {
     transition: var(--transition) !important;
     letter-spacing: -1px !important;
     position: relative !important;
