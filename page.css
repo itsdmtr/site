@@ -2,10 +2,6 @@
     display: none !important;
 }
 
-.notion-page__title .div {
-    display: none !important;
-}
-
 .notion-page {
     transition: var(--transition) !important;
     letter-spacing: -1px !important;
