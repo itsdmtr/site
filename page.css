@@ -2,7 +2,7 @@
     display: none !important;
 }
 
-.notion-page__title>div {
+.notion-page__title .div {
     display: none !important;
 }
 
