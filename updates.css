@@ -28,6 +28,11 @@
 strong {
     font-weight: 300 !important;
 }
+
 .notion-header__title {
+  display: none !important;
+}
+
+notion-header__content {
   display: none !important;
 }
